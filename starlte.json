@@ -1,12 +1,12 @@
 {
   "response": [
     {
-      "datetime": 1630085555,
-      "filename": "lineage-18.1-20210827-UNOFFICIAL-starlte.zip",
-      "id": "0863e9aa17b957306bb0dd7184415c77",
+      "datetime": 1631704186,
+      "filename": "lineage-18.1-20210915-UNOFFICIAL-starlte.zip",
+      "id": "850c2452736774c15e434ddcf233d4dc",
       "romtype": "UNOFFICIAL",
-      "size": 608777932,
-      "url": "https://github.com/pakaoraki/OTA/releases/download/27-08-2021/lineage-18.1-20210827-UNOFFICIAL-starlte.zip",
+      "size": 613481712,
+      "url": "https://github.com/pakaoraki/OTA/releases/download/15-09-2021/lineage-18.1-20210915-UNOFFICIAL-starlte.zip",
       "version": "18.1"
     }
   ]
